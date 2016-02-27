@@ -7,6 +7,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Sign up</title>
+Hu aavi gayo gitup pr
 </head>
 <body>
 <form:form action="User/SignUp.uk" method="post" modelAttribute="signupMA">
