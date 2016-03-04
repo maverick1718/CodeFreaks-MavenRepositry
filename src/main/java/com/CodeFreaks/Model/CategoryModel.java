@@ -20,6 +20,8 @@ public class CategoryModel {
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private int categoryID;
 	
+	ssnjsnjfn
+	
 	@Column(name="CategoryName")
 	private String categoryName;
 	
